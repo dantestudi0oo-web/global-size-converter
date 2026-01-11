@@ -146,6 +146,11 @@ const App: React.FC = () => {
           <div className="max-w-4xl mx-auto px-4">
             <p>&copy; {new Date().getFullYear()} Global Size Converter. All rights reserved.</p>
           </div>
+          <div className="flex justify-center gap-4 text-xs text-slate-500">
+                <a href="/privacy.html" target="_blank" className="hover:text-slate-300 transition-colors">Privacy Policy</a>
+                <span>|</span>
+                <a href="mailto:dante.studi0oo@gmail.com" className="hover:text-slate-300 transition-colors">Contact</a>
+            </div>
         </footer>
 
       </div>
