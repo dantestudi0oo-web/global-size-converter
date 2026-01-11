@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "全球鞋服尺码转换器 (美/英/欧/韩/日)",
+    "description": "轻松转换美国(US)、英国(UK)、欧洲(EU)、韩国(KR)及日本(JP)的鞋子和衣服尺码。准确的男士/女士尺码对照表。"
+  },
+  "header": {
+    "title": "全球尺码转换器"
+  },
+  "converter": {
+    "shoes": "鞋类",
+    "clothing": "服装",
+    "men": "男士",
+    "women": "女士",
+    "kids": "幼童",
+    "juniors": "大童",
+    "mode_size": "按尺码转换",
+    "mode_measure": "按测量值查找",
+    "select_region": "基准地区",
+    "select_size": "输入或选择尺码",
+    "input_chest": "胸围 (mm)",
+    "input_length": "衣长 (mm)",
+    "input_shoulder": "肩宽 (mm)",
+    "input_sleeve": "袖长 (mm)",
+    "input_foot": "脚长 (mm)",
+    "ph_foot": "例如: 265",
+    "ph_chest": "例如: 500",
+    "ph_length": "例如: 680",
+    "ph_shoulder": "例如: 440",
+    "ph_sleeve": "例如: 600",
+    "enter_exact": "为了获得更准确的结果，请输入尽可能多的实际测量值(mm)。",
+    "result": "转换结果",
+    "recommended": "推荐尺码",
+    "exact": "精确匹配",
+    "disclaimer_general": "尺码因品牌而异，建议试穿。",
+    "disclaimer_clothing": "基于标准版型的推荐。实际尺码可能因材质和款式而异。注意：同尺码标签下，男款实物尺寸通常比女款大。",
+    "how_to_title": "如何测量",
+    "how_to_foot": "站在纸上，描绘脚的轮廓，测量脚跟到最长脚趾的长度。",
+    "how_to_chest": "测量腋下1cm处的胸部直线宽度。",
+    "how_to_length": "从肩颈接缝最高点（不含领子）垂直测量到底边。",
+    "how_to_shoulder": "测量背部两肩端点之间的直线距离。",
+    "how_to_sleeve": "从肩端点测量到袖口边缘。",
+    "region_us": "美国 (US)",
+    "region_uk": "英国 (UK)",
+    "region_eu": "欧洲 (EU)",
+    "region_kr": "韩国 (KR)",
+    "region_jp": "日本 (JP)"
+  },
+  "seo_content": {
+    "how_to_measure": "如何测量您的尺码",
+    "measure_text_1": "鞋子：将脚放在纸上，描出轮廓。测量脚跟到最长脚趾的长度。",
+    "measure_text_2": "服装：使用软尺测量胸围、腰围和臀围。保持尺子与地面平行。",
+    "faq_title": "常见问题 (FAQ)",
+    "faq_1_q": "鞋码是全球通用的吗？",
+    "faq_1_a": "不是，鞋码因品牌（如Nike与Adidas）和地区而异。请务必使用转换表作为参考。",
+    "faq_2_q": "美码(US)和英码(UK)有什么区别？",
+    "faq_2_a": "通常，美国男鞋尺码比英国尺码大0.5到1个号。",
+    "faq_3_q": "什么时候测量脚最合适？",
+    "faq_3_a": "最好在下午或晚上测量，因为脚在活动后会轻微肿胀。",
+    "faq_4_q": "这个计算器适用于儿童吗？",
+    "faq_4_a": "是的！请选择“幼童”或“大童”标签以查找适合年龄的转换。"
+  }
+}

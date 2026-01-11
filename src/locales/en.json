@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "International Size Converter Chart - Shoes & Clothing (US, UK, EU, KR)",
+    "description": "Easily convert shoe and clothing sizes between US, UK, Europe, Korea and Japan. Accurate chart for Men, Women, Kids and Juniors."
+  },
+  "header": {
+    "title": "Global Size Converter"
+  },
+  "converter": {
+    "shoes": "Shoes",
+    "clothing": "Clothing",
+    "men": "Men",
+    "women": "Women",
+    "kids": "Kids",
+    "juniors": "Juniors",
+    "mode_size": "Convert by Size",
+    "mode_measure": "By Measurement",
+    "select_region": "Base Region",
+    "select_size": "Enter or Select Size",
+    "input_chest": "Chest Width (mm)",
+    "input_length": "Total Length (mm)",
+    "input_shoulder": "Shoulder Width (mm)",
+    "input_sleeve": "Sleeve Length (mm)",
+    "input_foot": "Foot Length (mm)",
+    "ph_foot": "e.g., 265",
+    "ph_chest": "e.g., 500",
+    "ph_length": "e.g., 680",
+    "ph_shoulder": "e.g., 440",
+    "ph_sleeve": "e.g., 600",
+    "enter_exact": "Enter as many actual measurements as possible for better accuracy (mm).",
+    "result": "Conversion Result",
+    "recommended": "Recommended",
+    "exact": "Exact Match",
+    "disclaimer_general": "Sizes vary by brand. We recommend trying them on.",
+    "disclaimer_clothing": "Recommendation based on standard fit. Actual size may vary by material and style. Note: Men's sizes represent larger physical dimensions than Women's for the same label.",
+    "how_to_title": "How to Measure",
+    "how_to_foot": "Stand on paper, trace your foot, and measure from heel to longest toe.",
+    "how_to_chest": "Measure straight across the chest, 1cm below armhole.",
+    "how_to_length": "From the highest point of shoulder/neck seam to the bottom hem.",
+    "how_to_shoulder": "Straight across the back from shoulder tip to shoulder tip.",
+    "how_to_sleeve": "From shoulder tip down to the cuff edge.",
+    "region_us": "United States (US)",
+    "region_uk": "United Kingdom (UK)",
+    "region_eu": "Europe (EU)",
+    "region_kr": "Korea (KR)",
+    "region_jp": "Japan (JP)"
+  },
+  "seo_content": {
+    "how_to_measure": "How to Measure Your Size",
+    "measure_text_1": "For shoes: Place your foot on a piece of paper and trace the outline. Measure the length from the heel to the longest toe.",
+    "measure_text_2": "For clothing: Measure your chest, waist, and hips using a flexible tape measure. Keep the tape parallel to the floor.",
+    "faq_title": "Frequently Asked Questions",
+    "faq_1_q": "Are shoe sizes universal?",
+    "faq_1_a": "No, shoe sizes vary significantly by brand (e.g., Nike vs Adidas) and region. Always use a conversion chart as a guide.",
+    "faq_2_q": "What is the difference between US and UK sizes?",
+    "faq_2_a": "Typically, US men's shoe sizes are about 0.5 to 1 size larger than UK sizes.",
+    "faq_3_q": "How do I measure my foot correctly?",
+    "faq_3_a": "It's best to measure in the afternoon when your feet are slightly swollen. Wear the socks you intend to wear with the shoes.",
+    "faq_4_q": "Does this calculator work for kids?",
+    "faq_4_a": "Yes! Select the Kids (0-7y) or Juniors (8-14y) tab to find age-appropriate conversions."
+  }
+}
