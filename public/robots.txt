@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sizeconverterapp.com/sitemap.xml
